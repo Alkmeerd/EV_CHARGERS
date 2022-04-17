@@ -1,0 +1,156 @@
+                        GEE Regression Results                              
+===================================================================================
+Dep. Variable:                    EV_COUNT   No. Observations:                  449
+Model:                                 GEE   No. clusters:                       13
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                 382
+Family:                            Poisson   Mean cluster size:                34.5
+Dependence structure:         Independence   Num. iterations:                     2
+Date:                     Fri, 25 Mar 2022   Scale:                           1.000
+Covariance type:                    robust   Time:                         22:17:40
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -4.2160      1.232     -3.422      0.001      -6.631      -1.801
+T_POP          -0.0268      0.020     -1.357      0.175      -0.066       0.012
+T_WP            0.0799      0.043      1.871      0.061      -0.004       0.164
+EDU_PERCENT     6.1293      2.334      2.626      0.009       1.555      10.704
+MA_HH        -1.13e-05   1.24e-05     -0.911      0.363   -3.56e-05     1.3e-05
+MPS_COUNT      -0.0014      0.001     -1.735      0.083      -0.003       0.000
+BLDG_COUNT      0.0012      0.001      2.288      0.022       0.000       0.002
+==============================================================================
+Skew:                          0.8120   Kurtosis:                      25.3659
+Centered skew:                -2.8618   Centered kurtosis:             35.6923
+==============================================================================
+
+
+
+
+
+                              GEE Regression Results                              
+===================================================================================
+Dep. Variable:                    EV_COUNT   No. Observations:                  449
+Model:                                 GEE   No. clusters:                       13
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                 382
+Family:                            Poisson   Mean cluster size:                34.5
+Dependence structure:         Independence   Num. iterations:                     2
+Date:                     Sat, 26 Mar 2022   Scale:                           1.000
+Covariance type:                    robust   Time:                         21:58:47
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     -2.3491      1.110     -2.116      0.034      -4.525      -0.174
+T_POP         -0.0021      0.003     -0.671      0.502      -0.008       0.004
+EDU            0.0536      0.013      3.976      0.000       0.027       0.080
+MA_HH          0.0006      0.001      0.933      0.351      -0.001       0.002
+MPS_COUNT     -0.0017      0.001     -1.872      0.061      -0.003    7.99e-05
+BLDG_COUNT     0.0011      0.000      2.370      0.018       0.000       0.002
+==============================================================================
+Skew:                          2.1766   Kurtosis:                      29.6173
+Centered skew:                -2.7034   Centered kurtosis:             33.7439
+==============================================================================
+
+
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                    EV_COUNT   No. Observations:                  449
+Model:                                 GEE   No. clusters:                       13
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                 382
+Family:                            Poisson   Mean cluster size:                34.5
+Dependence structure:         Independence   Num. iterations:                     2
+Date:                     Sat, 26 Mar 2022   Scale:                           1.000
+Covariance type:                    robust   Time:                         22:01:19
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -4.2160      1.232     -3.422      0.001      -6.631      -1.801
+T_POP           0.0012      0.000      4.247      0.000       0.001       0.002
+T_WP            0.0080      0.004      1.871      0.061      -0.000       0.016
+EDU_PERCENT     8.1963      1.939      4.226      0.000       4.395      11.998
+MA_HH        -1.13e-05   1.24e-05     -0.911      0.363   -3.56e-05     1.3e-05
+MPS_COUNT      -0.0014      0.001     -1.735      0.083      -0.003       0.000
+BLDG_COUNT      0.0012      0.001      2.288      0.022       0.000       0.002
+==============================================================================
+Skew:                          0.8120   Kurtosis:                      25.3659
+Centered skew:                -2.8618   Centered kurtosis:             35.6923
+==============================================================================
+
+                              GEE Regression Results                              
+===================================================================================
+Dep. Variable:                    EV_COUNT   No. Observations:                  449
+Model:                                 GEE   No. clusters:                       13
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                 382
+Family:                            Poisson   Mean cluster size:                34.5
+Dependence structure:         Independence   Num. iterations:                     2
+Date:                     Sat, 26 Mar 2022   Scale:                           1.000
+Covariance type:                    robust   Time:                         22:02:37
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -3.6659      1.102     -3.328      0.001      -5.825      -1.507
+T_POP          -0.0027      0.002     -1.357      0.175      -0.007       0.001
+T_WP            0.0080      0.004      1.871      0.061      -0.000       0.016
+EDU_PERCENT     6.1293      2.334      2.626      0.009       1.555      10.704
+MA_HH       -9.188e-06   1.38e-05     -0.667      0.505   -3.62e-05    1.78e-05
+MPS_COUNT      -0.0012      0.001     -1.459      0.145      -0.003       0.000
+BLDG_COUNT      0.0009      0.000      1.818      0.069    -6.7e-05       0.002
+==============================================================================
+Skew:                          1.7726   Kurtosis:                      28.7319
+Centered skew:                -2.8001   Centered kurtosis:             30.9480
+==============================================================================
+
+
+
+
+                              GEE Regression Results                              
+===================================================================================
+Dep. Variable:                    EV_COUNT   No. Observations:                  449
+Model:                                 GEE   No. clusters:                       13
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                 382
+Family:                            Poisson   Mean cluster size:                34.5
+Dependence structure:         Independence   Num. iterations:                     2
+Date:                     Sat, 26 Mar 2022   Scale:                           1.000
+Covariance type:                    robust   Time:                         22:10:53
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -4.2160      1.232     -3.422      0.001      -6.631      -1.801
+T_POP           0.0124      0.003      4.247      0.000       0.007       0.018
+EDU_PERCENT     8.1963      1.939      4.226      0.000       4.395      11.998
+MA_HH          -0.0011      0.001     -0.911      0.363      -0.004       0.001
+MPS_COUNT      -0.0014      0.001     -1.735      0.083      -0.003       0.000
+BLDG_COUNT      0.0012      0.001      2.288      0.022       0.000       0.002
+==============================================================================
+Skew:                          0.8120   Kurtosis:                      25.3659
+Centered skew:                -2.8618   Centered kurtosis:             35.6923
+==============================================================================
+
+
+                               GEE Regression Results                              
+===================================================================================
+Dep. Variable:                    EV_COUNT   No. Observations:                  449
+Model:                                 GEE   No. clusters:                       13
+Method:                        Generalized   Min. cluster size:                   1
+                      Estimating Equations   Max. cluster size:                 382
+Family:                            Poisson   Mean cluster size:                34.5
+Dependence structure:         Independence   Num. iterations:                     2
+Date:                     Sat, 26 Mar 2022   Scale:                           1.000
+Covariance type:                    robust   Time:                         22:31:57
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -3.6659      1.102     -3.328      0.001      -5.825      -1.507
+T_POP          -0.0268      0.020     -1.357      0.175      -0.066       0.012
+T_WP            0.0799      0.043      1.871      0.061      -0.004       0.164
+EDU_PERCENT     6.1293      2.334      2.626      0.009       1.555      10.704
+MA_HH          -0.0009      0.001     -0.667      0.505      -0.004       0.002
+MPS_COUNT      -0.0012      0.001     -1.459      0.145      -0.003       0.000
+BLDG_COUNT      0.0009      0.000      1.818      0.069    -6.7e-05       0.002
+==============================================================================
+Skew:                          1.7726   Kurtosis:                      28.7319
+Centered skew:                -2.8001   Centered kurtosis:             30.9480
+==============================================================================
